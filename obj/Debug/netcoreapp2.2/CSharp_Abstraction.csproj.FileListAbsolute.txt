@@ -1,0 +1,11 @@
+/Users/alvinescobar/C#/practice/CSharp_Abstraction/obj/Debug/netcoreapp2.2/CSharp_Abstraction.csprojAssemblyReference.cache
+/Users/alvinescobar/C#/practice/CSharp_Abstraction/obj/Debug/netcoreapp2.2/CSharp_Abstraction.csproj.CoreCompileInputs.cache
+/Users/alvinescobar/C#/practice/CSharp_Abstraction/obj/Debug/netcoreapp2.2/CSharp_Abstraction.AssemblyInfoInputs.cache
+/Users/alvinescobar/C#/practice/CSharp_Abstraction/obj/Debug/netcoreapp2.2/CSharp_Abstraction.AssemblyInfo.cs
+/Users/alvinescobar/C#/practice/CSharp_Abstraction/bin/Debug/netcoreapp2.2/CSharp_Abstraction.deps.json
+/Users/alvinescobar/C#/practice/CSharp_Abstraction/bin/Debug/netcoreapp2.2/CSharp_Abstraction.runtimeconfig.json
+/Users/alvinescobar/C#/practice/CSharp_Abstraction/bin/Debug/netcoreapp2.2/CSharp_Abstraction.runtimeconfig.dev.json
+/Users/alvinescobar/C#/practice/CSharp_Abstraction/bin/Debug/netcoreapp2.2/CSharp_Abstraction.dll
+/Users/alvinescobar/C#/practice/CSharp_Abstraction/bin/Debug/netcoreapp2.2/CSharp_Abstraction.pdb
+/Users/alvinescobar/C#/practice/CSharp_Abstraction/obj/Debug/netcoreapp2.2/CSharp_Abstraction.dll
+/Users/alvinescobar/C#/practice/CSharp_Abstraction/obj/Debug/netcoreapp2.2/CSharp_Abstraction.pdb
